@@ -1,0 +1,52 @@
+
+.input {
+  width: 100%;
+  outline: none;
+  border: 1px solid rgb(89, 24, 187);
+  border-radius: 5px;
+}
+
+h1{
+    margin-top: 40px;
+}
+
+.all .row2 {
+    margin-top: 4rem;
+}
+
+.all .first {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+
+}
+
+.all .first input {
+  width: 100%;
+  outline: none;
+  border: 1px solid rgb(89, 24, 187);
+  border-radius: 5px;
+  padding: 15px 0px 15px 20px;
+}
+.all .first button {
+  border-radius: 5px;
+  color:rgb(64, 61, 213);
+  border: none;
+  padding: 15px 20px;
+  background-color: rgb(182, 209, 251);
+  transition: .3s;
+}
+.all .first button:hover {
+    background-color: rgb(206, 223, 251);
+}
+
+.todoDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgb(113, 111, 235);
+    border-radius: 5px;
+    margin: 32px 32px;
+    padding: 0 16px;
+  }
